@@ -2,7 +2,7 @@
 Titanium Alloy Widget for ApexCharts https://apexcharts.com/
 
 <p align="center">
-  <img width="460"src="https://raw.githubusercontent.com/remoloaiza/ti.ApexCharts/master/chartsc.png">
+  <img width="300"src="https://raw.githubusercontent.com/remoloaiza/ti.ApexCharts/master/chartsc.png">
 </p>
 
 ## Usage
