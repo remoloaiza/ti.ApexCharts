@@ -26,8 +26,10 @@ $.testChart.getView().addEventListener('load', function() {
             categories : [1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999]
         }
     }; 
-
-    $.testChart.loadChart(options,true);
+    
+    //To use _defer add a second parameter with true
+    //$.testChart.loadChart(options,true);
+    $.testChart.loadChart(options);
 });
 ```
 
