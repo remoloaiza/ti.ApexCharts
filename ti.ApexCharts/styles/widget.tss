@@ -1,0 +1,16 @@
+"#chartWebView[platform=ios]" : {
+	url : WPATH('/html/apex.html'),
+    backgroundColor : 'transparent',
+    enableZoomControls : false,
+    width : Ti.UI.SIZE,
+    height : Ti.UI.SIZE
+}
+
+"#chartWebView[platform=android]" : {
+	url : WPATH('/html/apex.html'),
+    backgroundColor : 'transparent',
+    enableZoomControls : false,
+    width : Ti.UI.SIZE,
+    height : Ti.UI.SIZE,
+    borderRadius : 1
+}

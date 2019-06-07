@@ -1,0 +1,13 @@
+{
+	"id": "ti.ApexCharts",
+	"name": "ApexCharts",
+	"description" : "Widget for Apex Charts",
+	"author": "Remo Loaiza",
+	"version": "1.0",
+	"copyright":"Copyright (c) 2019",
+	"license":"Public Domain",
+	"min-alloy-version": "1.0",
+	"min-titanium-version":"2.1",
+	"tags":"chart,charts",
+	"platforms":"android,ios"
+}
