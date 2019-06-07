@@ -1,5 +1,6 @@
 # ti.ApexCharts
 Titanium Alloy Widget for ApexCharts https://apexcharts.com/
+![Example](/chartsc.png?raw=true "Example usage")
 
 ## Usage
 
